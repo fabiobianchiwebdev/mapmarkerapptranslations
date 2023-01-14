@@ -299,7 +299,7 @@ Searching&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-Busca&#8230;
+Buscando&#8230;
 ```
 
 
@@ -309,7 +309,7 @@ Search
 ```
 translated (by machine 🤖) as:
 ```
-Pesquisa
+Pesquisar
 ```
 
 
@@ -319,7 +319,7 @@ Share via
 ```
 translated (by machine 🤖) as:
 ```
-Share via
+Compartilhar via
 ```
 
 
@@ -359,7 +359,7 @@ Close
 ```
 translated (by machine 🤖) as:
 ```
-Perto
+Fechar
 ```
 
 
@@ -379,7 +379,7 @@ Move markers to folder
 ```
 translated (by machine 🤖) as:
 ```
-Mover para pasta marcadores
+Mover os marcadores para a pasta
 ```
 
 
@@ -389,7 +389,7 @@ Share
 ```
 translated (by machine 🤖) as:
 ```
-Ação
+Compartilhar
 ```
 
 
@@ -409,7 +409,7 @@ Snapshot of my markers on Map Marker
 ```
 translated (by machine 🤖) as:
 ```
-Snapshot dos meus marcadores em Map Marker
+Captura dos meus marcadores em Map Marker
 ```
 
 
@@ -420,7 +420,7 @@ This snapshot was made with the app Map Marker:
 ```
 translated (by machine 🤖) as:
 ```
-Este instantâneo foi feito com os app Map Marker : 
+Esta captura foi feita com o aplicativo Map Marker: 
  %s
 ```
 
@@ -431,7 +431,7 @@ Processing data&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-Processamento de dados&#8230;
+Processando dados&#8230;
 ```
 
 
@@ -441,7 +441,7 @@ You have unsaved modifications, do you want to save them?
 ```
 translated (by machine 🤖) as:
 ```
-Você tem alterações não salvas, quer salvá-los?
+Você tem alterações não salvas, quer salvá-las?
 ```
 
 
@@ -512,8 +512,8 @@ Send me an email :-)
 ```
 translated (by machine 🤖) as:
 ```
-Encontrou um problema? Você já tem uma idéia de melhoria? 
- enviar-me um email :-)
+Encontrou um problema? Tem uma idéia de melhoria? 
+Envie um email :-)
 ```
 
 
@@ -535,7 +535,7 @@ Rate it 5 stars :-)
 translated (by machine 🤖) as:
 ```
 Você gosta do app? 
- tarifa a 5 estrelas :-)
+ Avalie com 5 estrelas :-)
 ```
 
 
@@ -555,7 +555,7 @@ Directions
 ```
 translated (by machine 🤖) as:
 ```
-Instruções
+Como chegar
 ```
 
 
@@ -565,7 +565,7 @@ Acquiring location&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-Aquisição de localização&#8230;
+Buscando localização&#8230;
 ```
 
 
@@ -575,7 +575,7 @@ Meters
 ```
 translated (by machine 🤖) as:
 ```
-Medidores
+Metros
 ```
 
 
@@ -605,7 +605,7 @@ Miles
 ```
 translated (by machine 🤖) as:
 ```
-Miles
+Milhas
 ```
 
 
@@ -615,7 +615,7 @@ Adjust map camera position when guiding to a marker location
 ```
 translated (by machine 🤖) as:
 ```
-Ajuste mapa posição da câmera quando guiando para um local marcador
+Ajuste a posição da câmera quando guiando para o local do marcador
 ```
 
 
@@ -625,7 +625,7 @@ Keep screen on when guiding to a marker location
 ```
 translated (by machine 🤖) as:
 ```
-Mantenha a tela quando guiando para um local marcador
+Mantenha a tela ligada quando guiando para o local do marcador
 ```
 
 
@@ -635,7 +635,7 @@ Marker details copied to clipboard
 ```
 translated (by machine 🤖) as:
 ```
-Detalhes marcador copiados para o clipboard
+Detalhes do marcador copiados para a área de transferência
 ```
 
 
@@ -675,7 +675,7 @@ Could not create the map capture
 ```
 translated (by machine 🤖) as:
 ```
-Não foi possível criar a captura mapa
+Não foi possível criar a captura do mapa
 ```
 
 
@@ -685,7 +685,7 @@ Metric (Kilometers/Meters)
 ```
 translated (by machine 🤖) as:
 ```
-Metric (Km / Metros)
+Distâncias (Km / Metros)
 ```
 
 
@@ -695,7 +695,7 @@ Imperial (Miles/Feet)
 ```
 translated (by machine 🤖) as:
 ```
-Imperial (Miles / Pés)
+Imperial (Milhas / Pés)
 ```
 
 
@@ -705,7 +705,7 @@ There is a problem with Google Play Services: it needs to be installed, updated 
 ```
 translated (by machine 🤖) as:
 ```
-Há um problema com o Google Play Services : ele precisa ser instalado, atualizado ou ativada. Clique em OK para tentar resolvê-lo.
+Há um problema com o Google Play Services : ele precisa ser instalado, atualizado ou ativada. Clique em OK para tentar resolver.
 ```
 
 
@@ -725,7 +725,7 @@ If you like my app you can reward me by taking the time to give a good rating :-
 ```
 translated (by machine 🤖) as:
 ```
-Se você gosta do meu aplicativo você pode me recompensar por tomar o tempo para dar uma boa classificação de :-)
+Se você gosta do meu aplicativo você pode me recompensar por tomar o tempo para dar uma boa avaliação :-)
 ```
 
 
@@ -736,8 +736,8 @@ to the Play Store
 ```
 translated (by machine 🤖) as:
 ```
-OK ter me 
- ao Play Store
+OK leve me 
+para a Play Store
 ```
 
 
@@ -748,8 +748,8 @@ gave a rating
 ```
 translated (by machine 🤖) as:
 ```
-Já 
- atribuíram uma classificação
+Eu já
+dei uma nota
 ```
 
 
@@ -761,7 +761,7 @@ remind me
 translated (by machine 🤖) as:
 ```
 Talvez mais tarde 
- lembrar-me
+lembrar-me
 ```
 
 
@@ -773,7 +773,7 @@ do not remind me
 translated (by machine 🤖) as:
 ```
 Talvez mais tarde 
- não me lembrar
+não me lembrar
 ```
 
 
@@ -803,7 +803,7 @@ Move the map around to place your marker where you want and click OK to place it
 ```
 translated (by machine 🤖) as:
 ```
-Mover o mapa para colocar o marcador em que você deseja e clique em OK para colocá-lo
+Mova o mapa para colocar o marcador onde você deseja e clique em OK para colocá-lo
 ```
 
 
@@ -813,7 +813,7 @@ Imported marker
 ```
 translated (by machine 🤖) as:
 ```
-Marcador Importado
+Marcador importado
 ```
 
 
@@ -823,7 +823,7 @@ Settings
 ```
 translated (by machine 🤖) as:
 ```
-Definições
+Configurações
 ```
 
 
@@ -833,7 +833,7 @@ Display zoom buttons
 ```
 translated (by machine 🤖) as:
 ```
-Botões de zoom de exibição
+Mostrar botões de zoom
 ```
 
 
@@ -853,7 +853,7 @@ Degrees decimal minutes
 ```
 translated (by machine 🤖) as:
 ```
-Graduação minutos decimais
+Graus decimais minutos
 ```
 
 
@@ -863,7 +863,7 @@ Degrees minutes seconds
 ```
 translated (by machine 🤖) as:
 ```
-Graus, minutos e segundos
+Graus minutos e segundos
 ```
 
 
@@ -873,7 +873,7 @@ Coordinates format
 ```
 translated (by machine 🤖) as:
 ```
-Formato Coordenadas
+Formato de coordenadas
 ```
 
 
@@ -883,7 +883,7 @@ GPS and wireless networks only
 ```
 translated (by machine 🤖) as:
 ```
-Redes sem fio e GPS só
+Somente redes sem fio e GPS
 ```
 
 
@@ -893,7 +893,7 @@ GPS and wireless networks or magnetic sensor
 ```
 translated (by machine 🤖) as:
 ```
-Redes GPS e sem fios ou sensor magnético
+GPS e redes sem fios ou sensor magnético
 ```
 
 
@@ -903,7 +903,7 @@ Magnetic sensor only
 ```
 translated (by machine 🤖) as:
 ```
-Só sensor magnético
+Somente sensor magnético
 ```
 
 
@@ -913,7 +913,7 @@ Used compass sensor
 ```
 translated (by machine 🤖) as:
 ```
-Sensor de bússola Usado
+Sensor de bússola
 ```
 
 
@@ -923,7 +923,7 @@ FAQ/Help
 ```
 translated (by machine 🤖) as:
 ```
-FAQ / Ajuda
+FAQ/Ajuda
 ```
 
 
@@ -933,7 +933,7 @@ Folders
 ```
 translated (by machine 🤖) as:
 ```
-Folders
+Pastas
 ```
 
 
@@ -953,7 +953,7 @@ Language
 ```
 translated (by machine 🤖) as:
 ```
-Língua
+Idioma
 ```
 
 
@@ -963,7 +963,7 @@ Marker popup style
 ```
 translated (by machine 🤖) as:
 ```
-Estilo pop-up Marcador
+Estilo do pop-up do marcador
 ```
 
 
@@ -1033,7 +1033,7 @@ Coordinates window
 ```
 translated (by machine 🤖) as:
 ```
-Janela Coordenadas
+Janela de coordenadas
 ```
 
 
@@ -1053,7 +1053,7 @@ Lng:
 ```
 translated (by machine 🤖) as:
 ```
-GNL:
+Lng:
 ```
 
 
@@ -1063,7 +1063,7 @@ Marker instant adding mode
 ```
 translated (by machine 🤖) as:
 ```
-Marcador instante modo acrescentando
+Modo instântaneo para adicionar marcador
 ```
 
 
@@ -1103,7 +1103,7 @@ Language and units
 ```
 translated (by machine 🤖) as:
 ```
-Linguagem e unidades
+Idioma e unidades
 ```
 
 
@@ -1113,7 +1113,7 @@ Markers ignored on import (duplicates): %1$d
 ```
 translated (by machine 🤖) as:
 ```
-Marcadores ignorados na importação (duplicatas): %1$d
+Marcadores ignorados na importação (duplicados): %1$d
 ```
 
 
@@ -1133,7 +1133,7 @@ No auto naming
 ```
 translated (by machine 🤖) as:
 ```
-No auto de nomeação
+Sem nomeação automática
 ```
 
 
@@ -1143,7 +1143,7 @@ Auto naming "number"
 ```
 translated (by machine 🤖) as:
 ```
-Nomeação Auto "número"
+Nomeação automática "número"
 ```
 
 
@@ -1153,7 +1153,7 @@ Auto naming "Marker number"
 ```
 translated (by machine 🤖) as:
 ```
-Nomeação Auto "número marcador"
+Nomeação automática "número do marcador"
 ```
 
 
@@ -1163,7 +1163,7 @@ New marker auto naming
 ```
 translated (by machine 🤖) as:
 ```
-Nova marcador automático de nomenclatura
+Novo marcador com nome automático
 ```
 
 
@@ -1213,7 +1213,7 @@ View the list of upcoming features for the next app version
 ```
 translated (by machine 🤖) as:
 ```
-Veja a lista de recursos programados para a próxima versão app
+Veja a lista de recursos programados para a próxima versão do aplicativo
 ```
 
 
@@ -1253,7 +1253,7 @@ Snapshot
 ```
 translated (by machine 🤖) as:
 ```
-Instantâneo
+Captura
 ```
 
 
@@ -1263,7 +1263,7 @@ Share a snapshot of the map
 ```
 translated (by machine 🤖) as:
 ```
-Compartilhe um instantâneo do mapa
+Compartilhe uma captura do mapa
 ```
 
 
@@ -1305,7 +1305,7 @@ A calibração tem suas limitações e pode não ser suficiente para conter inte
 • grandes objetos de metal
 • dispositivos eletrônicos
 • ímãs
-• dentro de um carro / ônibus / trem / avião
+• dentro de um carro/ônibus/trem/avião
 ```
 
 
@@ -1315,7 +1315,7 @@ Badges
 ```
 translated (by machine 🤖) as:
 ```
-Badges
+Emblemas
 ```
 
 
@@ -1325,7 +1325,7 @@ Buy a donation badge
 ```
 translated (by machine 🤖) as:
 ```
-Compre um crachá doação
+Compre um emblema de doação
 ```
 
 
@@ -1335,7 +1335,7 @@ Thank you for your donation! This donation badge grants you access to premium fe
 ```
 translated (by machine 🤖) as:
 ```
-Obrigado por sua doação! Esta doação subvenções emblema-lhe acesso a características :-)
+Obrigado por sua doação! Esse emblema de doação lhe dá acesso a recursos premium :-)
 ```
 
 
@@ -1385,7 +1385,7 @@ Configuring&#8230;
 ```
 translated (by machine 🤖) as:
 ```
-Configurar&#8230;
+Configurarando&#8230;
 ```
 
 
@@ -1435,7 +1435,7 @@ Load error
 ```
 translated (by machine 🤖) as:
 ```
-Erro de carga
+Erro ao carregar
 ```
 
 
@@ -1455,7 +1455,7 @@ Root
 ```
 translated (by machine 🤖) as:
 ```
-Raiz
+Root
 ```
 
 
@@ -1485,7 +1485,7 @@ You cannot select that folder because it contains multiple files named %1$s. The
 ```
 translated (by machine 🤖) as:
 ```
-Você não pode selecionar essa pasta, pois contém vários arquivos com o %1$s A sincronização requer a pasta para conter apenas um arquivo com esse nome.
+Você não pode selecionar essa pasta, pois contém vários arquivos nomeados %1$s. A sincronização requer que a pasta contenha somente um arquivo com esse nome.
 ```
 
 
@@ -1495,7 +1495,7 @@ It seems sync data already exists in that folder. If you select that folder, you
 ```
 translated (by machine 🤖) as:
 ```
-Parece dados de sincronização já existe nessa pasta. Se você selecionar essa pasta, os seus dados locais serão mesclados com os dados pasta quando a sincronização é executada. É isso que tu queres?
+Parece que dados de sincronização já existem nessa pasta. Se você selecionar essa pasta, os seus dados locais serão mesclados com os dados da pasta quando a sincronização for executada. É isso que você quer?
 ```
 
 
@@ -1515,7 +1515,7 @@ Cloud sync
 ```
 translated (by machine 🤖) as:
 ```
-Nuvem de sincronização
+Sincronização em nuvem
 ```
 
 
@@ -1525,7 +1525,7 @@ Sync this map file on the cloud
 ```
 translated (by machine 🤖) as:
 ```
-Sincronizar o arquivo de mapa na nuvem
+Sincronizar esse arquivo de mapa na nuvem
 ```
 
 
@@ -1565,7 +1565,7 @@ Create cloud map
 ```
 translated (by machine 🤖) as:
 ```
-Criar mapa nuvem
+Criar mapa na nuvem
 ```
 
 
@@ -1585,7 +1585,7 @@ Retrieves changes from the cloud and sends local changes to the cloud
 ```
 translated (by machine 🤖) as:
 ```
-Recupera alterações em relação à nuvem e envia as alterações locais para a nuvem
+Recupere alterações em relação à nuvem e envia as alterações locais para a nuvem
 ```
 
 
@@ -1635,7 +1635,7 @@ Digite o novo nome do mapa
 ```
 translated (by machine 🤖) as:
 ```
-%1$d %2$d marcadores, %3$d KB
+%1$d pastas, %2$d marcadores, tamanho %3$d KB
 ```
 
 
@@ -1665,7 +1665,7 @@ Could not create folder: error occurred
 ```
 translated (by machine 🤖) as:
 ```
-Não foi possível criar a pasta: Ocorreu um erro
+Não foi possível criar a pasta: ocorreu um erro
 ```
 
 
@@ -1675,7 +1675,7 @@ Thank you for purchasing the Map Marker Premium upgrade :-)
 ```
 translated (by machine 🤖) as:
 ```
-Obrigado por adquirir Map Marker atualizar :-)
+Obrigado por adquirir a atualização premium do Map Marker :-)
 ```
 
 
@@ -1685,7 +1685,7 @@ Thank you for showing your interest by claiming your free Map Marker Premium :-)
 ```
 translated (by machine 🤖) as:
 ```
-Obrigado por mostrar o seu interesse por reivindicar sua Map Marker :-)
+Obrigado por mostrar o seu interesse por reivindicar seu Map Marker Premium grátis :-)
 ```
 
 
@@ -1695,7 +1695,7 @@ Premium
 ```
 translated (by machine 🤖) as:
 ```
-Prêmio
+Premium
 ```
 
 
@@ -1705,7 +1705,7 @@ Upgrade to premium and take full advantage of Map Marker features!
 ```
 translated (by machine 🤖) as:
 ```
-Actualiza para o prémio e tirar o máximo proveito Map Marker recursos!
+Atualizar para o premium e tire o máximo proveito das características do Map Marker!
 ```
 
 
@@ -1715,7 +1715,7 @@ Sorry, you need the premium upgrade to access this feature. Upgrade to premium a
 ```
 translated (by machine 🤖) as:
 ```
-Desculpe, você precisa da atualização premium para aceder a esta funcionalidade. Actualiza para o prémio e tirar o máximo proveito Map Marker recursos!
+Desculpe, você precisa da atualização premium para acessar esta funcionalidade. Atualize para o premium e tire o máximo proveito dos recursos do Map Marker!
 ```
 
 
@@ -6824,24 +6824,4 @@ Unzipping file: %s
 translated (by machine 🤖) as:
 ```
 Descompactando o arquivo: %s
-```
-
-
-## Translation Key: action_save_to_files
-```
-Save to files
-```
-translated (by machine 🤖) as:
-```
-Salvar em arquivos
-```
-
-
-## Translation Key: sucessfully_saved_to_device_files
-```
-Successfully saved to device files
-```
-translated (by machine 🤖) as:
-```
-Salvo com sucesso nos arquivos do dispositivo
 ```
