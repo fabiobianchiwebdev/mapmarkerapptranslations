@@ -2315,7 +2315,7 @@ A sync error occurred: the cloud data has been updated with a more recent versio
 ```
 translated (by machine 🤖) as:
 ```
-Ocorreu um erro de sincronização: a nuvem de dados foi atualizado com uma versão mais recente do aplicativo. Você deve Map Marker neste dispositivo para sincronizar.
+Ocorreu um erro de sincronização: a nuvem de dados foi atualizada com uma versão mais recente do aplicativo. Você deve atualizar o Map Marker neste dispositivo para sincronizar.
 ```
 
 
@@ -2365,7 +2365,7 @@ Text phone number
 ```
 translated (by machine 🤖) as:
 ```
-Número de telefone de texto
+Número de telefone para mensagens SMS
 ```
 
 
@@ -2385,7 +2385,7 @@ Default phone action
 ```
 translated (by machine 🤖) as:
 ```
-Acção de telefone padrão
+Ação de telefone padrão
 ```
 
 
@@ -2405,7 +2405,7 @@ Premium free trial
 ```
 translated (by machine 🤖) as:
 ```
-teste gratuito prémio
+Versão premium de teste
 ```
 
 
@@ -2425,7 +2425,7 @@ Premium free trial started! The trial will expire at the following date: %s
 ```
 translated (by machine 🤖) as:
 ```
-teste gratuito prémio começou! A avaliação irá expirar na data seguinte: %s
+Teste gratuito da versão premium começou! A versão de teste irá expirar na data seguinte: %s
 ```
 
 
@@ -2436,7 +2436,7 @@ Trial expiration:
 ```
 translated (by machine 🤖) as:
 ```
-Expiração julgamento: 
+Expiração da versão de teste: 
  %s
 ```
 
@@ -2447,7 +2447,7 @@ Trial expired
 ```
 translated (by machine 🤖) as:
 ```
-Versao de teste expirada
+Versão de teste expirada
 ```
 
 
@@ -2457,7 +2457,7 @@ Sync was canceled: you need the premium upgrade in order to perform sync.
 ```
 translated (by machine 🤖) as:
 ```
-Sincronização foi cancelada: você precisa da atualização prémio a fim de realizar a sincronização.
+Sincronização foi cancelada: você precisa da atualização premium a fim de realizar a sincronização.
 ```
 
 
@@ -2467,7 +2467,7 @@ Error: trial starting in the future!
 ```
 translated (by machine 🤖) as:
 ```
-Erro: partida julgamento no futuro!
+Erro: versão de teste inciando no futuro!
 ```
 
 
@@ -2477,7 +2477,7 @@ Thank you for your purchase!
 ```
 translated (by machine 🤖) as:
 ```
-Obrigado para sua compra!
+Obrigado pela sua compra!
 ```
 
 
@@ -2487,7 +2487,7 @@ Browse
 ```
 translated (by machine 🤖) as:
 ```
-procurar
+Procurar
 ```
 
 
@@ -2507,7 +2507,7 @@ Create
 ```
 translated (by machine 🤖) as:
 ```
-Crio
+Criar
 ```
 
 
@@ -2517,7 +2517,7 @@ Retry
 ```
 translated (by machine 🤖) as:
 ```
-tentar novamente
+Tentar novamente
 ```
 
 
@@ -2547,7 +2547,7 @@ Details
 ```
 translated (by machine 🤖) as:
 ```
-detalhes
+Detalhes
 ```
 
 
@@ -2557,7 +2557,7 @@ Sync error
 ```
 translated (by machine 🤖) as:
 ```
-erro de sincronização
+Erro de sincronização
 ```
 
 
@@ -2567,7 +2567,7 @@ The file already exists, do you want to overwrite it?
 ```
 translated (by machine 🤖) as:
 ```
-O arquivo já existe, você quer substituí-lo?
+O arquivo já existe, você quer sobrescrevê-lo?
 ```
 
 
@@ -2577,7 +2577,7 @@ Copy markers to folder
 ```
 translated (by machine 🤖) as:
 ```
-marcadores Copiar para pasta
+Copiar marcadores para a pasta
 ```
 
 
@@ -2587,7 +2587,7 @@ Error loading the Google Map component. Please restart the app.
 ```
 translated (by machine 🤖) as:
 ```
-Erro ao carregar os Google Map componente. Por favor, reinicie o aplicativo.
+Erro ao carregar o componente do Google Map. Por favor, reinicie o aplicativo.
 ```
 
 
@@ -2597,7 +2597,7 @@ You will see the list of your markers here. You currently have no markers in the
 ```
 translated (by machine 🤖) as:
 ```
-Você verá a lista de seus marcadores aqui. Atualmente você não tem marcadores na pasta (s) selecionada. Você pode adicionar um novo marcador, clicando no botão abaixo.
+Você verá a lista de seus marcadores aqui. Atualmente você não tem marcadores na pasta(s) selecionada(s). Você pode adicionar um novo marcador, clicando no botão abaixo.
 ```
 
 
@@ -2647,7 +2647,7 @@ Bing Aerial With Labels
 ```
 translated (by machine 🤖) as:
 ```
-Bing Aerial Com Labels
+Etiquetas do Bing Aerial
 ```
 
 
@@ -2657,7 +2657,7 @@ ArcGIS Server
 ```
 translated (by machine 🤖) as:
 ```
-ArcGIS Server
+Servidor ArcGIS
 ```
 
 
@@ -2667,7 +2667,7 @@ Offline maps
 ```
 translated (by machine 🤖) as:
 ```
-mapas offline
+Mapas offline
 ```
 
 
@@ -2687,7 +2687,7 @@ Storage folder
 ```
 translated (by machine 🤖) as:
 ```
-pasta de armazenamento
+Pasta de armazenamento
 ```
 
 
@@ -2698,7 +2698,7 @@ Test results of the offline maps folder:
 ```
 translated (by machine 🤖) as:
 ```
-Os resultados do teste da pasta mapas off-line: 
+Teste os resultados da pasta mapas offline: 
  %s
 ```
 
@@ -2709,7 +2709,7 @@ No folder is selected for offline map files. In order to use offline maps, open 
 ```
 translated (by machine 🤖) as:
 ```
-Nenhuma pasta for selecionado para arquivos de mapas off-line. Para utilizar mapas offline, abra as configurações e selecionar uma pasta para arquivos de mapas off-line.
+Nenhuma pasta foi selecionada para os arquivos de mapas offline. Para utilizar mapas offline, abra as configurações e selecione uma pasta para arquivos de mapas offline.
 ```
 
 
@@ -2719,7 +2719,7 @@ The selected offline map folder you selected contains no files. Make sure you ad
 ```
 translated (by machine 🤖) as:
 ```
-A pasta mapa offline selecionado selecionado não contém arquivos. Certifique-se de adicionar os arquivos de mapas off-line nessa pasta antes de usar mapas offline, caso contrário, o mapa estará vazia.
+A pasta mapa offline selecionada não contém arquivos. Certifique-se de adicionar os arquivos de mapas offline nessa pasta antes de usar mapas offline, caso contrário, o mapa estará vazio.
 ```
 
 
@@ -2769,7 +2769,7 @@ Credits
 ```
 translated (by machine 🤖) as:
 ```
-créditos
+Créditos
 ```
 
 
@@ -2791,7 +2791,7 @@ Legal mentions for other map data than Google Maps:
 ```
 translated (by machine 🤖) as:
 ```
-Menções legais para outros dados de mapa do que Google Maps : 
+Menções legais para outros dados de mapa além do Google Maps: 
  
  %s
 ```
@@ -2803,7 +2803,7 @@ Disable error file dump
 ```
 translated (by machine 🤖) as:
 ```
-despejo de arquivo de erro Desativar
+Desabilitar o despejo do arquivo de erro
 ```
 
 
@@ -2823,7 +2823,7 @@ Enable error file dump
 ```
 translated (by machine 🤖) as:
 ```
-Ativar despejo arquivo de erro
+Ativar o despejo do arquivo de erro
 ```
 
 
@@ -2843,7 +2843,7 @@ Start background sync…
 ```
 translated (by machine 🤖) as:
 ```
-Iniciar sincronização de fundo&#8230;
+Iniciar sincronização fora de foco&#8230;
 ```
 
 
@@ -2863,7 +2863,7 @@ When app enters background
 ```
 translated (by machine 🤖) as:
 ```
-Quando app entra fundo
+Quando o aplicativo não estiver em foco
 ```
 
 
@@ -6365,7 +6365,7 @@ Download media after sync when needed
 ```
 translated (by machine 🤖) as:
 ```
-Baixe a mídia após a sincronização quando necessário
+Baixe a mídia após a sincronização, quando necessário
 ```
 
 
@@ -6605,7 +6605,7 @@ View instructions
 ```
 translated (by machine 🤖) as:
 ```
-Ver instruções
+Veja instruções
 ```
 
 
@@ -6649,7 +6649,7 @@ Purchase permanent premium
 ```
 translated (by machine 🤖) as:
 ```
-Compre prêmio permanente
+Compre o premium permanente
 ```
 
 
@@ -6741,7 +6741,7 @@ Open and migrate a V2 cloud map
 ```
 translated (by machine 🤖) as:
 ```
-Abra e migre um mapa de nuvem V2
+Abra e migre um mapa em nuvem V2
 ```
 
 
@@ -6751,7 +6751,7 @@ Migrate a legacy cloud map from Map Marker V2 (app version from before 2023) and
 ```
 translated (by machine 🤖) as:
 ```
-Migrar um mapa de nuvem herdado de Map Marker V2 (versão do aplicativo anterior a 2023) e abri-lo como um novo mapa de nuvem
+Migrar um mapa de nuvem herdado do Map Marker V2 (versão do aplicativo anterior a 2023) e abra como um novo mapa em nuvem
 ```
 
 
@@ -6761,7 +6761,7 @@ Migrating legacy V2 cloud map…
 ```
 translated (by machine 🤖) as:
 ```
-Migrando o mapa de nuvem legado V2…
+Migrando o mapa em nuvem Legacy V2…
 ```
 
 
@@ -6781,7 +6781,7 @@ Legacy V2 cloud map migration succeeded!
 ```
 translated (by machine 🤖) as:
 ```
-A migração do mapa de nuvem legado V2 foi bem-sucedida!
+A migração do mapa em nuvem Legacy V2 foi bem-sucedida!
 ```
 
 
@@ -6792,7 +6792,7 @@ Legacy V2 cloud map migration failed:
 ```
 translated (by machine 🤖) as:
 ```
-Falha na migração do mapa de nuvem Legacy V2:
+Falha na migração do mapa em nuvem Legacy V2:
 %s
 ```
 
@@ -6803,7 +6803,7 @@ Loading file…
 ```
 translated (by machine 🤖) as:
 ```
-Carregando arquivo...
+Carregando o arquivo...
 ```
 
 
@@ -6813,7 +6813,7 @@ Zipping file: %s
 ```
 translated (by machine 🤖) as:
 ```
-Arquivo compactado: %s
+Compactando o arquivo: %s
 ```
 
 
